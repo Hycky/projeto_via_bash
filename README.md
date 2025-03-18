@@ -142,4 +142,4 @@ Esse script automatiza a configuração inicial de um projeto Python, garantindo
 
 ---
 
-🛠️ **Criado para facilitar a inicialização de projetos em Python de forma rápida e eficiente! 🚀**
+
